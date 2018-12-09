@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <path d="M50,100 C22.4308684,100 0,77.5691316 0,50 C0,22.4308684 22.4308684,0 50,0 C77.5691316,0 100,22.4308684 100,50 C100,77.5691316 77.5691316,100 50,100" id="Path" fill="#020303"></path>
+            <path d="M50,2 C23.5328915,2 2,23.5328915 2,50 C2,76.469048 23.5328915,98 50,98 C76.4671085,98 98,76.469048 98,50 C98,23.5328915 76.4671085,2 50,2" id="Path" fill="#FFFFFF"></path>
+            <path d="M82,49.5 C82,66.8969956 67.8974288,81 50.5009677,81 C33.1025712,81 19,66.8969956 19,49.5 C19,32.1030044 33.1025712,18 50.5009677,18 C67.8974288,18 82,32.1030044 82,49.5" id="Fill-13" fill="#020303"></path>
+        </g>
+    </g>
+</svg>
